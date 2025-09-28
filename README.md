@@ -20,6 +20,7 @@ Xml Inventory is application for XML files content analysis and creating interac
     - attribute names
     - attribute element names
     - attribute values
+  - reports not well-formed files
   - reports in
     - XML
     - HTML (with bar graphs)
@@ -72,6 +73,7 @@ Xml Inventory is application for XML files content analysis and creating interac
   - start element (not starting from the root element)
   - number of stored values (0, first N [absolute or %], all)
 - report on
+  - not well-formed files
   - number of analyzed files and folders
   - depth of folder structure
   - elements + used namespace and prefix, parent element, XPath, unique XPaths, if is root element
