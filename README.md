@@ -104,5 +104,5 @@ Xml Inventory is application for XML files content analysis and creating interac
 - parallel file analysis processing
 - considered programming languages and frameworks
   - [.NET 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
-  - [C#](https://learn.microsoft.com/cs-cz/dotnet/csharp/) (combined with [F#](https://learn.microsoft.com/cs-cz/dotnet/fsharp/)?)
+  - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (combined with [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/)?)
   - [Avalonia](https://github.com/AvaloniaUI/Avalonia)
