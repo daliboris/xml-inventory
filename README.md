@@ -85,6 +85,10 @@ Xml Inventory is application for XML files content analysis and creating interac
   - characters in
     - element and attribute names
     - text content
+- different views of data
+  - unique elements (with number of occurrences)
+    - with list of attributes, parent and child elements
+  - unique XPath for each element
 - report can have
   - hierarchical structure
   - flat structure
