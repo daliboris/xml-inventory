@@ -110,3 +110,10 @@ Xml Inventory is application for XML files content analysis and creating interac
   - [.NET 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
   - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (combined with [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/)?)
   - [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+
+## Use cases
+
+### TEI ODD
+
+- list unique elements if the collection of TEI files
+- prepare TEI ODD only with available elements
